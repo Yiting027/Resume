@@ -1,2 +1,2 @@
 # Resume
-Personal resume
+This is my person resume website.
